@@ -57,10 +57,4 @@ Contributions are welcome! To contribute:
 3. Commit your changes and push them to your fork.
 4. Submit a pull request.
 
-## License
-This project is licensed under the MIT License. See the [LICENSE](LICENSE) file for more details.
-
----
-
-Feel free to check out the project [here](https://github.com/kinshuk8/Face-Emotion-Recognition.git). If you find it helpful, give it a star and share your feedback!
 
