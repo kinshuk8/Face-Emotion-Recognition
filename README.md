@@ -19,7 +19,7 @@ Face Emotion Recognition is a project that leverages computer vision and machine
 
 ### Prerequisites
 1. Python 3.8 or higher installed.
-2. Install necessary dependencies:
+2. Install the necessary dependencies:
    ```bash
    pip install -r requirements.txt
    ```
